@@ -29,8 +29,40 @@ h1 {
   border: 1px solid #c3e6cb;
 }
 
-.alert-error {
-  background-color: #f8d7da;
-  color: #721c24;
-  border: 1px solid #f5c6cb;
+.footer {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 14px;
+  color: #666;
+}
+.footer p {
+  color: #007bff;
+  text-decoration: none;
+}
+button {
+  background-color: #06dde9;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  color: blueviolet;
+}
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+color: blueviolet;
+}
+input[type="text" ] {
+
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: rgb(237, 226, 229);
+}
+input[type="email" ] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: rgb(235, 241, 241);
 }
